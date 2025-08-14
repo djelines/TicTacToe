@@ -1,5 +1,5 @@
 
-# 🎮 Tic Tac Toe React
+# 🎮 Tic Tac Toe 
 
 Un jeu classique **Tic Tac Toe** développé avec **React** et **Tailwind CSS**.  
 Jouez à deux, détectez les victoires et égalités, et réinitialisez le plateau en un clic !
@@ -15,8 +15,8 @@ Jouez à deux, détectez les victoires et égalités, et réinitialisez le plate
 ## ⚡ Installation 
 
 ```bash
-git clone 
-cd tic-tac-toe-react
+git clone https://github.com/djelines/TicTacToe.git
+cd tic_tac_toe
 npm install
 npm start
 ````
@@ -33,5 +33,3 @@ Le jeu est accessible sur `http://localhost:3000`.
 * Cliquez sur **Reset** pour recommencer.
 
 
-Veux‑tu que je fasse ça ?
-```
